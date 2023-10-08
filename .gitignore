@@ -1,0 +1,11 @@
+# Macos system file
+.DS_Store
+*/.DS_Store
+# IntelliJ
+/.idea
+/.idea/*
+# Python env
+/venv
+/venv/*
+/__pycache__
+/__pycache__/*
